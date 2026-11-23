@@ -445,3 +445,4 @@ img{max-width:100%;height:auto;display:block}
 .g-note-actions .button.outline{background:transparent;border-color:var(--paper);color:var(--paper)}
 .g-more a{padding:10px 0;display:inline-block}
 @media(max-width:760px){.g-letter{padding:24px 20px;font-size:1rem}.g-note{padding:28px 22px}.g-note-actions .button{width:100%}}
+.works.works-single{grid-template-columns:1fr;max-width:560px}
